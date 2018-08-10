@@ -170,7 +170,7 @@ public String getPrint(String content){...}
 
 * #### 不建议使用map传参,不符合面向对象要求
 
-* #### 不建议使用map传参,不符合面向对象要求
+
 
 
 
