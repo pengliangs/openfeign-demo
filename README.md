@@ -156,7 +156,7 @@ public String getPrint(String content){...}
 
 **调用结果**
 
-![输入图片说明](https://images.gitee.com/uploads/images/2018/0810/142408_b9c9e12f_966228.png "屏幕截图.png")
+![输入图片说明](https://images.gitee.com/uploads/images/2018/0810/144202_4087cd01_966228.png "屏幕截图.png")
 
 与期待的不一样，服务提供者声明的是GET请求，我消费的时候也是GET为什么实际发送的是POST
 
