@@ -71,6 +71,13 @@ eureka:
 * feign-consumer
 
 ```
+<dependency>
+    <groupId>org.springframework.cloud</groupId>
+    <artifactId>spring-cloud-starter-openfeign</artifactId>
+</dependency>
+```
+
+```
 @FeignClient("feign-provider")
 public interface PrintService {
 
